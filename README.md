@@ -22,6 +22,7 @@
 
 **ScreenShot6**
 
-![image](https://github.com/TripathyRohit/Projects/assets/138881913/4d3da056-c4e3-4644-b574-cfc6826e667e)
+![Screenshot 2023-11-14 152122](https://github.com/TripathyRohit/Projects/assets/138881913/2be57f70-afd8-466a-977a-d8f8ec69066b)
+
 
 
