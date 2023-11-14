@@ -1,3 +1,4 @@
 # Projects
 **News Classification**
-![NC](https://github.com/TripathyRohit/Projects/assets/138881913/77c17237-7729-4c5d-bbfc-e3ba465df6c5)
+![images](https://github.com/TripathyRohit/Projects/assets/138881913/0753d705-b589-486b-870e-c42650161eef)
+
